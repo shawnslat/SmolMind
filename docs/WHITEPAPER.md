@@ -1,7 +1,7 @@
 # **SmolMind: A Local-First, Multi-Agent Assistant**  
 ### **Whitepaper v1.1 — Full Technical Specification & Implementation Audit**   
 *October 28, 2025*  
-`https://github.com/TeamSADFLabs/SmolMind` | MIT License
+`https://github.com/shawnslat/SmolMind` | MIT License
 
 ---
 
